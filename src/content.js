@@ -78,13 +78,13 @@ export default {
   ],
 
   education: [
-    // {
-    //   institution: 'University of Saint La Salle',
-    //   startDate: new Date('2010-06-01'),
-    //   gpa: '3.98',
-    //   endDate: new Date('2014-04-01'),
-    //   description: 'B.S. Information Technology',
-    // },
+    {
+      institution: 'University of Saint La Salle',
+      startDate: new Date('2010-06-01'),
+      // gpa: '3.98',
+      endDate: new Date('2014-04-01'),
+      description: 'B.S. in Information Technology',
+    },
   ],
 
   skills: [
